@@ -34,14 +34,13 @@
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/deleteNotice"
                 style="@style/Widget.Material3.Button.OutlinedButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="70dp"
+                android:layout_height="40dp"
                 android:layout_marginLeft="-90dp"
                 android:background="#fff"
-                android:elevation="5dp"
                 android:text="Delete"
                 android:textColor="#3F51B5"
-                android:textSize="13dp"
+                android:textSize="7dp"
                 tools:ignore="TextSizeCheck" />
         </LinearLayout>
 
